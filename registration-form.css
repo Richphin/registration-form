@@ -1,0 +1,145 @@
+body{
+	background-color: #D6EAF8;
+	font-family: 'Roboto', sans-serif;
+}
+.form {
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	border-top: solid blue 10px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+span{color: red}
+input{border-style: none;
+	border-bottom: solid black 1px
+}
+
+.email{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+	padding-top: 10px;
+}
+
+.Fullname{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+	padding-top: 10px;
+}
+.number{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 7px;
+	padding-top: 10px;
+}
+
+.nextofkin{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 23vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.payment{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 23vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.sponsor{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 23vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.location{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+	padding-top: 10px;
+}
+.school{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 8px;
+	padding-top: 10px;
+}
+.reason{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 7px;
+	padding-top: 10px;
+}
+.KoCT{
+	margin: auto;
+	background-color:  #fff;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 7px;
+	padding-top: 10px;
+}
+.submit{
+	margin: auto;
+	border-style: none;
+	width: 50%;
+	height: 16vh;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-bottom: 7px;
+	padding-top: 10px;
+}
+#Page{ padding-left: 20px;  }
+.logo{
+	text-align: center;
+}
